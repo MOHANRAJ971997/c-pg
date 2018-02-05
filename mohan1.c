@@ -1,7 +1,7 @@
 #include <stdio.h>
-#include <string.h>
-
-int main(){
+#include <conio.h>
+int main()
+{
     char string1[20];
     int i, length;
     int flag = 0;
